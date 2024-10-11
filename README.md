@@ -55,5 +55,5 @@ Follow these steps to use the Breast Cancer Analysis project:
 
 ## Contact
 
-If you need any help with this project, feel free to reach out to me via email: [karthikgr1908@example.com](mailto:karthik@example.com).
+If you need any help with this project, feel free to reach out to me via email: [karthikgr1908@gmail.com](mailto:karthik@gmail.com).
 
