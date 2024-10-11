@@ -27,32 +27,6 @@ You can find the dataset [here](https://www.kaggle.com/datasets/uciml/breast-can
 
 This dataset is widely used for machine learning classification tasks and provides a solid foundation for analyzing breast cancer predictions.
 
-## Usage
-
-Follow these steps to use the Breast Cancer Analysis project:
-
-1. **Load the Dataset:** 
-   - Import the dataset using Pandas to explore its structure and contents.
-
-2. **Exploratory Data Analysis (EDA):**
-   - Visualize data distributions and relationships using Matplotlib and Seaborn.
-   - Identify patterns and trends in the dataset.
-
-3. **Preprocess the Data:**
-   - Handle any missing values (e.g., imputation or removal).
-   - Scale or normalize features as needed for model training.
-
-4. **Split the Dataset:**
-   - Divide the dataset into training and test sets using `train_test_split` from Scikit-learn.
-
-5. **Train a Classification Model:**
-   - Implement and train classification algorithms such as Decision Trees or Random Forest on the training set.
-
-6. **Evaluate the Model:**
-   - Use metrics such as accuracy, precision, recall, and F1 score to assess model performance.
-   - Generate confusion matrices and classification reports for detailed evaluation.
-
-
 ## Contact
 
 If you need any help with this project, feel free to reach out to me via email: [karthikgr1908@gmail.com](mailto:karthik@gmail.com).
