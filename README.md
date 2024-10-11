@@ -29,5 +29,5 @@ This dataset is widely used for machine learning classification tasks and provid
 
 ## Contact
 
-If you need any help with this project, feel free to reach out to me via email: [karthikgr1908@gmail.com](mailto:karthik@gmail.com).
+If you need any help with this project, feel free to reach out to me via email: [karthikgr1908@gmail.com](mailto:karthikgr1908@gmail.com).
 
